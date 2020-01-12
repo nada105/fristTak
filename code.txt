@@ -1,0 +1,84 @@
+<html>
+    <head></head>
+    <body  bgcolor="#007791"  >    
+        <h1 style="color:#E6F3F6;font-size:50px;">Online Cources</h1>
+        <h2 style="color:#fff;font-size:20px"> Find the right learning path for you Match your goals to our programs, explore your options, and map out your path to success. </h2>
+
+        <table   bgcolor="#fff"  >
+            
+            <tr >
+                <td > <b style=color:#123456><br>full stack Development</br></b> 
+                     <p> 
+                         The goal of the Full Stack Web Developer is to equip learners with the unique 
+                         skills they need to build database-backed APIs and web applications. 
+                       
+                     </p>
+                   
+                </td>
+                
+                <td><br><img src="web.jpg" ,  width=250 ></br>
+                   
+                </td>
+                <td><b style=color:#123456> <br>android Development</br></b>
+                    <p>
+                            Start your career as an Android developer. 
+                            Learn best practices for mobile development,
+                            build a portfolio of apps, and publish your own app to Google Play.
+                    </p>
+                </td>
+                <td><br><img src="mobile.png" , width=250></br></td>
+               
+                
+            </tr>
+
+            <tr >
+                
+                <td ><b style=color:#123456><br>Java programing</br></b>
+                    <p>
+                            Java developers create dynamic applications and websites. 
+                            Some design interfaces;others do work that’s completely behind the scenes.
+                            One of the basic duties is writing class files.
+                            
+                    </p>
+                </td>
+                <td ><br><img src="java.jpg" , width=250></br></td>
+
+                <td><b style=color:#123456> <br>c++ developer </br></b>
+                    <p>
+                            Learn C++, a high-performance programming language used in 
+                            the world's most exciting engineering jobs from self-driving 
+                            cars and robotics, to web browsers, media platforms, servers,
+                            and even video games.
+                    
+                    </p>
+                </td>
+                <td><br><img src="cd.jpg" , width=250></br></td>
+
+           
+            </tr>
+
+            <tr  >
+                    <td><b style=color:#123456><br>machine learning</br></b>
+                        <p>
+                                Learn machine learning techniques and algorithms,
+                                 including deployment to a production environment.
+                        </p>
+                    </td>
+                     <td><br><img src="ML.jpeg" , width=250></br></td>
+                     <td><b style=color:#123456><br>cloud computing<br></b>
+                         <p>
+                                Cloud development is the foundation for the new world of software development.
+                                Learn to build and deploy production-ready full stack apps at scale on AWS, 
+                                an essential skill for advancing your web development career
+                        </p>
+                    </td>
+                    <td><br><img src="cloud.png", width=250></br></td>
+                   
+
+            </tr>
+        </table>
+    
+   
+    </body>
+
+</html>
